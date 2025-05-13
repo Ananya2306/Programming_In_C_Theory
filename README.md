@@ -24,7 +24,7 @@ This project is a comprehensive, modern, and mobile-responsive HTML study guide 
 ## How to Use
 
 1. Download or clone this repository.
-2. Open the `CS_Concepts_for_Engineering_Students.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
+2. Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).
 3. Navigate through topics using the menu or scroll through the single-page guide.
 4. Use this file as a quick reference or revision tool for exams or learning.
 
